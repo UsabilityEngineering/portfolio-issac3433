@@ -1,6 +1,6 @@
-# UX Portfolio
+# Nathaniel's UX Portfolio
 
-About me...
+My name is Nathaniel Issac, I am a senior graduating in December 2025. My goal is to become a network/cybersecurity engineer. 
 
 ## UX Team Project
 
