@@ -11,7 +11,7 @@ Netflix’s home page follows a simple grid-based design. Each row represents a 
 
 The system prioritizes what users are most likely to engage with. For example, the **“Continue Watching”** section appears at the top, supporting efficiency and enabling returning users to resume content instantly. Below it, personalized recommendations are displayed based on viewing history — an example of **user-centered design**, where the interface adapts to the user’s habits.
 
-Moreover, Netflix supports the heuristic **Recognition rather than Recall** (from the Nielsen Norman Group list) by keeping titles visible and options clearly labelled so users don’t need to remember where things are — they can recognise them. :contentReference[oaicite:2]{index=2}
+Moreover, Netflix supports the heuristic **Recognition rather than Recall** (from the Nielsen Norman Group list) by keeping titles visible and options clearly labelled so users don’t need to remember where things are — they can recognise them. 
 
 ![Netflix Interface](https://cdn.neowin.com/news/images/uploaded/2024/06/1717732935_netflix_english_tv_ui.jpg)  
 *Netflix’s content layout shows a clear hierarchy with personalized rows and prioritized recommendations.*
