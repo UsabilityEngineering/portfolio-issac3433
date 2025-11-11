@@ -1,5 +1,4 @@
 # Browsing Without Thinking: The Design Behind Netflix’s Ease of Use  
-**By Nathaniel Issac — November 10, 2025**
 
 I use Netflix almost every day, whether it’s to watch a quick episode during dinner or browse for a new movie on the weekend. What stands out to me most about Netflix’s interface is how *effortless* it feels to use. Without realizing it, I can navigate, search, and resume shows in seconds. This smoothness isn’t an accident — it’s the result of deliberate **user experience (UX)** and **usability** principles at work.
 
@@ -14,7 +13,7 @@ The system prioritizes what users are most likely to engage with. For example, t
 
 Moreover, Netflix supports the heuristic **Recognition rather than Recall** (from the Nielsen Norman Group list) by keeping titles visible and options clearly labelled so users don’t need to remember where things are — they can recognise them. :contentReference[oaicite:2]{index=2}
 
-![Netflix Interface](https://www.hollywoodreporter.com/wp-content/uploads/2025/06/netflix-ui.jpg?crop=0px%2C2px%2C1200px%2C672px&resize=2000%2C1126)  
+![Netflix Interface](https://cdn.neowin.com/news/images/uploaded/2024/06/1717732935_netflix_english_tv_ui.jpg)  
 *Netflix’s content layout shows a clear hierarchy with personalized rows and prioritized recommendations.*
 
 ---
@@ -26,7 +25,7 @@ This consistency also extends across devices: whether on TV, laptop, or phone, t
 
 Netflix likewise follows the heuristic **Consistency and Standards** (Nielsen Norman Group) by using familiar conventions and UI patterns so users are not forced to learn a completely new system. :contentReference[oaicite:3]{index=3}
 
-![Netflix Consistency Example](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQa0IvSZq-me61w97nyaMGEBUaF8woPXPcaZKC53g8eA1f7BBNZXh6tDAJGoD2DCioPma-baZ7aNPnpUlqd1zreId3XpieCl7ubAbfmpq3hmlZkON2M8Pt1EjB9aGkFwWT4OHsQQZKBlQvRaQaTlFDNpt.jpg?r=bc8)  
+![Netflix Consistency Example](https://www.cnet.com/a/img/resize/0accf033c23fa0a25e89d8793302d1e3127ac94e/hub/2015/06/16/59670625-f5a4-474a-848e-5e7bd2ac6437/netflix-site-revamp.jpg?auto=webp&fit=crop&height=675&width=1200)
 *Consistent iconography and layout strengthen user familiarity and minimize the learning curve.*
 
 ---
