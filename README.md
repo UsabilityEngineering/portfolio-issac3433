@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Browsing Without Thinking: The Design Behind Netflix’s Ease of Use  ](journal/)
+[Ease of Using Netflix](journal/)
