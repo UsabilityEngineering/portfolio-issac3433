@@ -23,7 +23,7 @@ One of Netflix’s greatest strengths is **consistency** — the principle that 
 
 This consistency also extends across devices: whether on TV, laptop, or phone, the design looks familiar. The placement of the navigation bar, search tool, and user profile are predictable, which also strengthens the user’s **mental model** — their internal understanding of how the system should behave.
 
-Netflix likewise follows the heuristic **Consistency and Standards** (Nielsen Norman Group) by using familiar conventions and UI patterns so users are not forced to learn a completely new system. :contentReference[oaicite:3]{index=3}
+Netflix likewise follows the heuristic **Consistency and Standards** (Nielsen Norman Group) by using familiar conventions and UI patterns so users are not forced to learn a completely new system. 
 
 ![Netflix Consistency Example](https://www.cnet.com/a/img/resize/0accf033c23fa0a25e89d8793302d1e3127ac94e/hub/2015/06/16/59670625-f5a4-474a-848e-5e7bd2ac6437/netflix-site-revamp.jpg?auto=webp&fit=crop&height=675&width=1200)
 *Consistent iconography and layout strengthen user familiarity and minimize the learning curve.*
@@ -33,23 +33,23 @@ Netflix likewise follows the heuristic **Consistency and Standards** (Nielsen No
 ### Feedback, Control & System Status  
 Netflix provides subtle but effective **feedback** — visual and auditory cues that confirm user actions. When hovering over a show, the title slightly enlarges and reveals Play, Add to List, or More Info options. This change signals interactivity and shows the user that the element is actionable. After selecting a title, the loading animation (the rotating red “N” logo) gives immediate confirmation that the system is responding.
 
-This aligns with the heuristic **Visibility of System Status** (Nielsen Norman Group) — the design keeps users informed about what’s going on, through prompt feedback. :contentReference[oaicite:4]{index=4}
+This aligns with the heuristic **Visibility of System Status** (Nielsen Norman Group) — the design keeps users informed about what’s going on, through prompt feedback. 
 
-Netflix also supports the heuristic **User Control and Freedom** by allowing users to easily stop, skip, or exit playback, which helps them feel in control rather than locked into a process. :contentReference[oaicite:5]{index=5}
+Netflix also supports the heuristic **User Control and Freedom** by allowing users to easily stop, skip, or exit playback, which helps them feel in control rather than locked into a process. 
 
 ---
 
 ### Aesthetic & Minimalist Design  
-Despite offering thousands of titles, Netflix avoids overwhelming users by using minimalistic design. It uses dark backgrounds, limited text, and high-contrast thumbnails to reduce **cognitive load** — meaning less mental effort is required to process information. The interface keeps only the essential controls visible, supporting the heuristic **Aesthetic and Minimalist Design**, which suggests that extra information in an interface competes with the relevant information and should therefore be kept to a minimum. :contentReference[oaicite:6]{index=6}
+Despite offering thousands of titles, Netflix avoids overwhelming users by using minimalistic design. It uses dark backgrounds, limited text, and high-contrast thumbnails to reduce **cognitive load** — meaning less mental effort is required to process information. The interface keeps only the essential controls visible, supporting the heuristic **Aesthetic and Minimalist Design**, which suggests that extra information in an interface competes with the relevant information and should therefore be kept to a minimum. 
 
-This design also implicitly supports **Error Prevention** — the fewer distractions and overly complex options, the fewer the chances a user will make a mistake or feel lost. :contentReference[oaicite:7]{index=7}
+This design also implicitly supports **Error Prevention** — the fewer distractions and overly complex options, the fewer the chances a user will make a mistake or feel lost.
 
 ---
 
 ### Personalization and Predictive Design  
 Netflix also leverages **predictive design**, where the interface anticipates what users want before they act. The “Because You Watched…” section uses algorithms to predict future interests. While this is driven by data, the UX effect is simplification: fewer manual searches, more relevant options given proactively.
 
-This ties into the heuristic **Flexibility and Efficiency of Use** (Nielsen Norman Group) — the interface provides added shortcuts (like “Continue Watching”) for frequent users while keeping the core structure simple for newcomers. :contentReference[oaicite:8]{index=8}
+This ties into the heuristic **Flexibility and Efficiency of Use** (Nielsen Norman Group) — the interface provides added shortcuts (like “Continue Watching”) for frequent users while keeping the core structure simple for newcomers. 
 
 ---
 
