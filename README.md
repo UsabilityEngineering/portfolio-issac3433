@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Browsing Without Thinking: The Design Behind Netflix’s Ease of Use  ](journal/)
